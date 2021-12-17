@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 import pandas as pd
 #import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 from collections import Counter
 from hydralit import HydraApp
 from hydralit import HydraHeadApp
@@ -11,7 +11,7 @@ import apps
 import altair as alt
 #when we import hydralit, we automatically get all of Streamlit
 import hydralit as hy
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 
 
 st.cache(persist=True)
